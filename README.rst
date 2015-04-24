@@ -13,7 +13,9 @@ Alternatively:
 
 ::
 
-   git clone https://
+   git clone https://github.com/carlf/nagios-load-per-core.git
+   python setup.py install
+
 Usage
 -----
 Simply call with warning and critical values. Please note that the
