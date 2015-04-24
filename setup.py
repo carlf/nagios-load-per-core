@@ -17,7 +17,7 @@ setup(
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
         'Intended Audience :: System Administrators',
-        'Topic :: System :: Monitoring'
-        'License :: OSI Apprived :: MIT License'
+        'Topic :: System :: Monitoring',
+        'License :: OSI Approved :: MIT License'
     ]
 )
