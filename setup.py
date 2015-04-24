@@ -4,7 +4,7 @@ setup(
     name="nagios-load-per-core",
     description="Nagios plugin to check load normalized by core count",
     long_description=open('README.rst').read(),
-    version="0.1",
+    version="0.1.1",
     packages=find_packages(),
     author="Carl Flippin",
     author_email="carlf@photocarl.org",
@@ -12,7 +12,6 @@ setup(
     scripts=['check-load-by-core'],
     license="MIT",
     install_requires = ['pynagios'],
-    include_package_data=True,
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
