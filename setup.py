@@ -11,7 +11,7 @@ setup(
     url="https://github.com/carlf/nagios-load-per-core",
     scripts=['check-load-by-core'],
     license="MIT",
-    install_requires = ['pynagios'
+    install_requires = ['pynagios'],
     include_package_data=True,
     classifiers=[
         'Development Status :: 3 - Alpha',
