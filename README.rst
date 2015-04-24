@@ -24,4 +24,4 @@ cores on the host.
 
 ::
    
-   ./nagios-load-per-core -w 1.3 -c 2.4
+   check-load-by-core -w 1.3 -c 2.4
